@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meriellen Silveira</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merysilveira" alt="merysilveira" /> </p>
 
 - 🔭 I’m currently working on [Wx3 e-commerce](https://www.wx3.com.br/)
