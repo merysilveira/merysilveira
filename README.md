@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merysilveira" alt="merysilveira" /> </p>
 
-- 🔭 I’m currently working on [Wx3 e-commerce](https://www.wx3.com.br/)
+- 🔭 I’m currently working on [Alterdata Software](https://www.alterdata.com.br/)
 
 - 💬 Ask me about **HTML, CSS and Webdesign**
 
