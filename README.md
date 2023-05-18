@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merysilveira" alt="merysilveira" /> </p>
 
-- 🔭 I’m currently working on [Avanade](https://www.avanade.com/pt-br)
+- 🔭 I’m currently working on [Semantix](https://www.semantix.ai)
 
 - 💬 Ask me about **HTML, CSS and Webdesign**
 
